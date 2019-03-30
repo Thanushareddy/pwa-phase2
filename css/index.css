@@ -1,0 +1,36 @@
+body{
+  background:#F1104A;
+}
+header{
+  font-style:italic;
+  text-align: center;
+  font-weight:25px;
+  background-color:#E4E7AD;
+}
+img{
+    float:right;
+}
+ .child{
+    width:100px;
+    padding:1%;
+    margin:1%;
+    border-radius:1px solid white;
+    background-color:#CFB4F0;
+    justify-content: space-around;
+  }
+  .child img{
+    width: 100px;
+    height:100px;
+    color:grey;
+    background-color:#92F1EA;
+      border-radius:1px solid white;
+      float none;
+  }
+
+.link{
+  text-decoration:none;
+  color: #fff;
+  text-align: center;
+  float: none;
+
+}
